@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Header from './components/Header';
 import Main from './components/Main'
 import Sidebar from './components/Sidebar'
